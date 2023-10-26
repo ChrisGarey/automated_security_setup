@@ -6,16 +6,15 @@ Automate the setup of your Debian-based Linux system with this handy shell scrip
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Features
 
 - Detects and supports Debian, Ubuntu, and Linux Mint.
-- Silently updates and upgrades the system while displaying progress percentages.
+- Silently updates and upgrades the system.
 - Installs popular wordlist repositories.
 - Sets up and enables UFW (Uncomplicated Firewall).
 

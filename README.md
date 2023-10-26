@@ -1,4 +1,5 @@
 # Linux System Setup Automation Script
+# for Essential Ethical Hacking and System Hardening
 
 ![Demo](render1698350535874.gif)
 
